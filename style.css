@@ -1,0 +1,39 @@
+table, tr, th, td{
+    border: 3px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    font-family: monospace;
+    color: white;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    font-family: monospace;
+    color: white;
+}
+h1{
+    text-align: center;
+  
+    font-family: monospace;
+    color: white;
+}
+button{
+    font-size: xx-large;
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    border: 3px solid white;
+   
+}
+div{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+text{
+    font-size: xx-large;
+    font-family: monospace;
+    color: white;
+}
